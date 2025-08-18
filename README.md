@@ -1,1 +1,5 @@
+#LINK PARA O VÍDEO EXPLICATIVO DO SOFTWARE
 https://drive.google.com/file/d/1B8Ybm0VdzGGQfTQRLN_7rTDb7ZatYeoU/view?usp=sharing
+
+#LINK PARA O VÍDEO DO FUNCIONAMENTO E EXPLICAÇÃO DA MECÂNICA
+https://cdn.discordapp.com/attachments/1386094655233589322/1406999241544433837/8mb.video-Gue-epRTwFn3.mp4?ex=68a481a7&is=68a33027&hm=1a57b4f28e208a592dafc4951078fdaba1548397c1c7927e3de8588f83debf18&authuser=0
