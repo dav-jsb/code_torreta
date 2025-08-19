@@ -1,6 +1,9 @@
 ### LINK PARA O VÍDEO EXPLICATIVO DO SOFTWARE
 https://drive.google.com/file/d/1B8Ybm0VdzGGQfTQRLN_7rTDb7ZatYeoU/view?usp=sharing
 
+### LINK PARA EXPLICAÇÃO E DEMONSTRAÇÃO DA TORRETA
+https://drive.google.com/file/d/1azJzErlFV_b_4xGX1L3FO3WYittXWQkc/view?usp=drive_link
+
 ### LINK PARA MODELO DE REFERÊNCIA DA TORRETA
 https://www.printables.com/model/338574-nerf-dart-turret-brushless-wifi-wip?authuser=0
 
