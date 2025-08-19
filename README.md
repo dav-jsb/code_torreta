@@ -1,7 +1,5 @@
-### LINKS PARA O VÍDEO EXPLICATIVO DO SOFTWARE E PARA O VÍDEO DE FUNCIONAMENTO DA TORRETA
+### LINKS PARA O VÍDEO EXPLICATIVO DO SOFTWARE
 https://drive.google.com/file/d/1B8Ybm0VdzGGQfTQRLN_7rTDb7ZatYeoU/view?usp=sharing
-
-https://drive.google.com/file/d/1azJzErlFV_b_4xGX1L3FO3WYittXWQkc/view?usp=sharing
 
 ### LINK PARA EXPLICAÇÃO E DEMONSTRAÇÃO DA TORRETA
 https://drive.google.com/file/d/1azJzErlFV_b_4xGX1L3FO3WYittXWQkc/view?usp=drive_link
